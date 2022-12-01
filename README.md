@@ -29,9 +29,9 @@ This repo provides a reference implementation of TSeqE as described in the paper
 ### Run the code
 
 运行前需要将数据与代码组织成如下结构：
-    <center><img src="structure.png", width = "40%"></center>
+<center><img src="structure.png", width = "40%"></center>
 
-由于这是后期帮忙整理出的代码，没有全部跑过，不能保证一次跑通。
+由于这是后期帮忙整理出的代码，没有全部跑过，不能保证跑通。
 
 ```shell
 cd ./TSeq
