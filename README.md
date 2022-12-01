@@ -2,8 +2,8 @@
  * @Author: error: git config user.name && git config user.email & please set dead value or install git
  * @Date: 2022-12-01 18:28:20
  * @LastEditors: error: git config user.name && git config user.email & please set dead value or install git
- * @LastEditTime: 2022-12-01 22:53:17
- * @FilePath: /TSeqE/README.md
+ * @LastEditTime: 2022-12-01 23:03:48
+ * @FilePath: \TSeqE\README.md
  * @Description: 
  * 
  * Copyright (c) 2022 by error: git config user.name && git config user.email & please set dead value or install git, All Rights Reserved. 
@@ -30,6 +30,7 @@ This repo provides a reference implementation of TSeqE as described in the paper
 
 运行前需要将数据与代码组织成如下结构：
     <center><img src="structure.png", width = "40%"></center>
+
 由于这是后期帮忙整理出的代码，没有全部跑过，不能保证一次跑通。
 
 ```shell
@@ -48,6 +49,13 @@ python ml_data_preprocess.py
 python ml_main.py
 
 ```
+
+## Datasets
+
+the datasets could be found in the following links:
+
+[TSeqE_data](https://drive.google.com/drive/folders/18CrFkfYGSb0LpwKcZmv3jkIfG-SqNbox?usp=sharing)
+
 
 
 ## Cite
