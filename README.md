@@ -2,8 +2,8 @@
  * @Author: error: git config user.name && git config user.email & please set dead value or install git
  * @Date: 2022-12-01 18:28:20
  * @LastEditors: error: git config user.name && git config user.email & please set dead value or install git
- * @LastEditTime: 2022-12-01 23:03:48
- * @FilePath: \TSeqE\README.md
+ * @LastEditTime: 2022-12-02 15:37:01
+ * @FilePath: \undefinedc:\Users\28332\Desktop\TSeqE\README.md
  * @Description: 
  * 
  * Copyright (c) 2022 by error: git config user.name && git config user.email & please set dead value or install git, All Rights Reserved. 
@@ -11,7 +11,7 @@
 
 # TSeqE 
 
-This repo provides a reference implementation of TSeqE as described in the paper:
+This repo provides a reference implementation of **TSeqE** as described in the paper:
 
 > J. Yang, W. Zhou, W. Qian, J. Han and S. Hu, "[Topic Sequence Embedding for User Identity Linkage from Heterogeneous Behavior Data](https://doi.org/10.1109/ICASSP39728.2021.9415111)," ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 2590-2594.
 
@@ -60,9 +60,9 @@ the datasets could be found in the following links:
 
 ## Cite
 
-If you find **CasFlow** useful for your research, please consider citing us :
+If you find **TSeqE** useful for your research, please consider citing us :
 
-    @INPROCEEDINGS{9415111,
+    @INPROCEEDINGS{TSeqE,
         author={Yang, Jinzhu and Zhou, Wei and Qian, Wanhui and Han, Jizhong and Hu, Songlin},
         booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
         title={Topic Sequence Embedding for User Identity Linkage from     Heterogeneous Behavior Data}, 
